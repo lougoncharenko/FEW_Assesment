@@ -14,7 +14,7 @@ main{
 }
 
 section{
-    padding:20px;
+    padding: 15px;
     height:200px;
     width: 200px;
     border-style: solid;
@@ -24,6 +24,10 @@ section{
     flex-direction: column;
     justify-items: center;
     align-items: center;
+}
+
+#inputs{
+    font-size: 11px;
 }
 
 input{
